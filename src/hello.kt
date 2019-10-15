@@ -12,6 +12,9 @@ fun main(args: Array<String>)
     val mybinary = 0xb01001 //Binarry
 
 
+    //Loops And Ranges in Kotlin
+
+
 
     println(firstName+lastname)
 }
